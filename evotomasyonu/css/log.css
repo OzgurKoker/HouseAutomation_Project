@@ -1,0 +1,68 @@
+body {
+    background-image: url(../images/b.jpg)
+}
+
+.container-fluid {
+    margin-top: 50px;
+}
+
+.container1 {
+
+    width: 530px;
+    height: 400px;
+
+    margin-left: 35%;
+
+
+}
+
+h3 {
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+#tablo {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+#buton1 {
+
+    margin-left: 35%;
+
+}
+
+#buton2 {
+
+    margin-left: 20px;
+
+}
+
+#buton3 {
+
+    margin-left: 20px;
+
+}
+
+#buton4 {
+
+    margin-left: 20px;
+
+}
+
+td,
+tr {
+    text-align: center;
+}
+
+.container2 {
+    margin-left: 120px;
+    position: absolute;
+    top: 250px;
+    width: 300px;
+    height: 250px;
+    background-color: rgba(0, 0, 0, 0.5) !important;
+    color: white;
+    text-align: center;
+}
